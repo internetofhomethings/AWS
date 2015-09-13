@@ -1,5 +1,5 @@
 <h2><strong>NOTE: This repository contains some preliminary work which has been shared here for some collaboration.
-For a completed example using the AWS API, please see my <a href="https://github.com/internetofhomethings/AWS-ESP8266-API">AWS-ESP8266-API repository.</a></strong></h2>
+For a completed example using the AWS API, please see my <a href="https://github.com/internetofhomethings/AWS-ESP8266-API">AWS-ESP8266-API</a> repository.</strong></h2>
 <hr />
 <h2><strong>AWS interface for ESP8266 Development Software</strong></h2>
 This project attempts to interface the ESP8266 with AWS DynamoDB using the Arduino IDE platform.
