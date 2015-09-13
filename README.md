@@ -1,5 +1,8 @@
 <h2><strong>AWS interface for ESP8266 Development Software</strong></h2>
 
+<h2><strong>NOTE: This repository contains some preliminary work which has been shared here for some collaboration.
+For a completed example using the AWS API, please see my AWS-ESP8266-API repository.</strong></h2>
+
 This project attempts to interface the ESP8266 with AWS DynamoDB using the Arduino IDE platform.
 
 Setup:
